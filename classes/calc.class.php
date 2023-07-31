@@ -33,7 +33,7 @@
                     return $result;
                     break;
                 default :
-                    echo "error!"
+                    echo "error!";
                     break;
             }
         }

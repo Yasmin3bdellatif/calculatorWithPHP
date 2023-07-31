@@ -1,7 +1,6 @@
 <?php
 declare(strict_types = 1);
-include 'classes/calc.class.php';
-include 'includes/calc.inc.php';
+include 'includes/path.inc.php';
 ?>
 
 <!DOCTYPE html>

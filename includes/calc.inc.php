@@ -1,7 +1,7 @@
 <?php
 
     declare(strict_types = 1);
-    include '..classes/calc.class.php';
+    include 'path.inc.php';
 
 
     $oper = $_POST["oper"];
